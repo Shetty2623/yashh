@@ -24,4 +24,6 @@ public class WelcomePage {
 	public void setRegisterLink(WebElement registerLink) {
 		RegisterLink = registerLink;
 	}
+	//public void setRegisterLink(WebElement registerLink) {
+		//RegisterLink = registerLink;
 }
